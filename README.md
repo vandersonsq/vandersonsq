@@ -21,4 +21,20 @@ Comecei na área de suporte técnico e migrei pra desenvolvimento. Hoje atuo com
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+## Troféus
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=vandersonsq&theme=dracula&no-frame=true&row=1)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandersonsq&show_icons=true&theme=dracula&locale=pt-br)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vandersonsq&theme=dracula&locale=pt_BR)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonsq&layout=compact&theme=dracula&locale=pt-br)
+
+## Contribuições
+
+![Snake animation](https://github.com/vandersonsq/vandersonsq/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 📫 [LinkedIn](https://www.linkedin.com/in/vanderson-quintino/)
