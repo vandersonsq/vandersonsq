@@ -1,20 +1,30 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Vanderson Quintino 👋
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+**Software Engineer I @ Hotmart**
+📍 Belo Horizonte, MG — Brasil
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+Comecei na área de suporte técnico e migrei pra desenvolvimento. Hoje atuo como desenvolvedor de software focado em backend, trabalhando com sistemas de alta escala no ecossistema de notas fiscais eletrônicas.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## Trajetória
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+- 🔧 Suporte Técnico → Desenvolvimento → Engenharia de Software
+- 🏢 eNotas (2020–2025) → Hotmart (2025–atual)
+- 🎓 Evolução contínua: Jr → Jr II → Pleno → Software Engineer I
+
+## Tecnologias
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandersonsq&show_icons=true&theme=dracula&locale=pt-br)
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/vanderson-quintino/)
