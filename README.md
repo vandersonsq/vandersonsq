@@ -3,13 +3,7 @@
 **Software Engineer I @ Hotmart**
 📍 Belo Horizonte, MG — Brasil
 
-Comecei na área de suporte técnico e migrei pra desenvolvimento. Hoje atuo como desenvolvedor de software focado em backend, trabalhando com sistemas de alta escala no ecossistema de notas fiscais eletrônicas.
-
-## Trajetória
-
-- 🔧 Suporte Técnico → Desenvolvimento → Engenharia de Software
-- 🏢 eNotas (2020–2025) → Hotmart (2025–atual)
-- 🎓 Evolução contínua: Jr → Jr II → Pleno → Software Engineer I
+Atuo como desenvolvedor de software focado em backend, trabalhando com sistemas de alta escala no ecossistema de notas fiscais eletrônicas.
 
 ## Tecnologias
 
