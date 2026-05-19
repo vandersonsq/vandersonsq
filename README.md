@@ -1,16 +1,20 @@
-## Hi there 👋
+# Introduction 
+TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
-<!--
-**vandersonsq/vandersonsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Getting Started
+TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+1.	Installation process
+2.	Software dependencies
+3.	Latest releases
+4.	API references
 
-Here are some ideas to get you started:
+# Build and Test
+TODO: Describe and show how to build your code and run the tests. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contribute
+TODO: Explain how other users and developers can contribute to make your code better. 
+
+If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
+- [ASP.NET Core](https://github.com/aspnet/Home)
+- [Visual Studio Code](https://github.com/Microsoft/vscode)
+- [Chakra Core](https://github.com/Microsoft/ChakraCore)
