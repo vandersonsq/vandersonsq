@@ -21,10 +21,4 @@ Comecei na área de suporte técnico e migrei pra desenvolvimento. Hoje atuo com
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandersonsq&show_icons=true&theme=dracula&locale=pt-br)
-
----
-
 📫 [LinkedIn](https://www.linkedin.com/in/vanderson-quintino/)
