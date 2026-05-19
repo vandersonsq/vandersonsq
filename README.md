@@ -25,10 +25,6 @@ Comecei na área de suporte técnico e migrei pra desenvolvimento. Hoje atuo com
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vandersonsq&theme=dracula&no-frame=true&row=1)
 
-## Contribuições
-
-![Snake animation](https://github.com/vandersonsq/vandersonsq/blob/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 📫 [LinkedIn](https://www.linkedin.com/in/vanderson-quintino/)
