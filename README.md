@@ -25,12 +25,6 @@ Comecei na área de suporte técnico e migrei pra desenvolvimento. Hoje atuo com
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vandersonsq&theme=dracula&no-frame=true&row=1)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandersonsq&show_icons=true&theme=dracula&locale=pt-br)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vandersonsq&theme=dracula&locale=pt_BR)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonsq&layout=compact&theme=dracula&locale=pt-br)
-
 ## Contribuições
 
 ![Snake animation](https://github.com/vandersonsq/vandersonsq/blob/output/github-contribution-grid-snake-dark.svg)
