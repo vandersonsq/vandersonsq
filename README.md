@@ -15,10 +15,4 @@ Atuo como desenvolvedor de software focado em backend, trabalhando com sistemas 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## Troféus
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vandersonsq&theme=dracula&no-frame=true&row=1)
-
----
-
 📫 [LinkedIn](https://www.linkedin.com/in/vanderson-quintino/)
